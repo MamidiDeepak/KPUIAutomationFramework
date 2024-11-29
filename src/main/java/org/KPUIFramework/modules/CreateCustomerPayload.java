@@ -48,7 +48,7 @@ public class CreateCustomerPayload {
 
         createCustomerPojo.setGstn("36AKKPK1234B1Z5");
 
-        createCustomerPojo.setEducationLevel1("Test");
+        createCustomerPojo.setEducationLevel1("GRADUATE");
 
         createCustomerPojo.setEducationLevel2("PRIMARY");
 
