@@ -1,0 +1,1 @@
+{"uuid":"1ca69e52-d304-4d66-8cd3-33d4a5ca738e","name":"KPUIAutomationFramework","children":["9926f786-a62f-4bbd-86f6-bfcd1ed9b06c"],"befores":[{"name":"loginAndGenerateToken","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732782483870,"stop":1732782485274}],"afters":[],"start":1732782483853,"stop":1732782487020}
