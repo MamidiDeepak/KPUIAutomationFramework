@@ -46,7 +46,7 @@ public class CreateCustomerPayload {
 
         createCustomerPojo.setAadhaarNumber("499033435670");
 
-        createCustomerPojo.setGstn("36AKKPK1234B1Z5");
+        createCustomerPojo.setGstn("36AKKPK1234B1Z4");
 
         createCustomerPojo.setEducationLevel1("GRADUATE");
 
