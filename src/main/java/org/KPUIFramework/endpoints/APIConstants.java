@@ -8,5 +8,8 @@ public enum APIConstants {
     public static final String GETORDERDETAILS = "orders/";
     public static final String CREATECUSTOMER = "customers";
 
+    public static final String KPBASEURL = "https://api-testing.mymoneykarma.com/kpapi/";
+    public static final String CREATEORDER = "orders";
+
 
 }

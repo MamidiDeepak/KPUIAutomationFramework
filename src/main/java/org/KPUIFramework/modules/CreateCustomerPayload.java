@@ -64,6 +64,5 @@ public class CreateCustomerPayload {
     public static CreateCustomerResponsePojo getDeSerializedResponseData(String response){
         CreateCustomerResponsePojo ccrp = gson.fromJson(response, CreateCustomerResponsePojo.class);
         return ccrp;
-
     }
 }

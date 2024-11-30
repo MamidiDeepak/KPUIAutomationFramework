@@ -1,6 +1,6 @@
 package org.KPUIFramework.pojo;
 
-public class CreateCustomerPojo {
+public class CreateCustomerResponseDetailsPojo {
     private String firstName;
     private String middleName;
     private String lastName;
@@ -19,6 +19,15 @@ public class CreateCustomerPojo {
     private String educationLevel2;
     private String partnerId;
     private String entityId;
+    private String id;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 
     public String getFirstName() {
         return firstName;
